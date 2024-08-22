@@ -50,6 +50,11 @@
    - **Download Workers**: Use the download option to save individual workers or utilize the batch download feature to download all workers in one click.
 
 
+## Known Issues
+
+1. **Manual Route Enabling**: When creating new workers through the application, you need to manually enable the route for the worker in your Cloudflare dashboard. This step is necessary to make the worker active and functional.
+
+
 ## Contact
 
 For any questions or support, please open an issue on the GitHub repository or contact me directly at [contact@narendradwivedi.org].
