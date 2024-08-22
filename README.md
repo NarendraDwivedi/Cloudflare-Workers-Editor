@@ -4,7 +4,6 @@
 
 ![Cloudflare Workers Editor Screenshot](https://github.com/NarendraDwivedi/Cloudflare-Workers-Editor/raw/main/cloudflareworkerseditor.JPG)
 
-
 ## Features
 
 - **API Integration**: Enter your Cloudflare API token and account ID to connect with your Cloudflare account.
@@ -23,7 +22,7 @@
 
 1. **Download the Application:**
 
-   Download the latest release of the Cloudflare Workers Editor from the [releases page]([https://github.com/your-username/cloudflare-workers-editor/releases](https://github.com/NarendraDwivedi/Cloudflare-Workers-Editor/releases). Note that the release binary is protected by obfuscation to enhance security.
+   Download the latest release of the Cloudflare Workers Editor from the [releases page](https://github.com/NarendraDwivedi/Cloudflare-Workers-Editor/releases). Note that the release binary is protected by obfuscation to enhance security.
 
 2. **Install the .NET Framework:**
 
@@ -31,7 +30,7 @@
 
 3. **Run the Application:**
 
-   - **If you downloaded the release:** Simply run the `Cloudflare Workers Editor` file.
+   - **If you downloaded the release:** Simply run the `Cloudflare Workers Editor.exe` file.
 
 4. **Configure the Application:**
 
@@ -40,7 +39,7 @@
 ## Usage
 
 1. **Launch the Application:**
-   Open the Cloudflare Workers Editor from your start menu or desktop shortcut.
+   Open the Cloudflare Workers Editor.exe
 
 2. **Authenticate:**
    Enter your Cloudflare API token and account ID when prompted to authenticate and connect to your account.
@@ -52,18 +51,16 @@
    - **Delete Workers**: Choose a worker and click the "Delete" button to remove it.
    - **Download Workers**: Use the download option to save individual workers or utilize the batch download feature to download all workers in one click.
 
-
 ## Known Issues
 
 1. **Manual Route Enabling**: When creating new workers through the application, you need to manually enable the route for the worker in your Cloudflare dashboard. This step is necessary to make the worker active and functional.
 
-
 ## Contact
 
-For any questions or support, please open an issue on the GitHub repository or contact me directly at [contact@narendradwivedi.org].
+For any questions or support, please open an issue on the GitHub repository or contact me directly at [contact@narendradwivedi.org](mailto:contact@narendradwivedi.org).
 
 ---
 
 Thank you for using Cloudflare Workers Editor!
 
-](https://github.com/NarendraDwivedi/Cloudflare-Workers-Editor)](https://github.com/NarendraDwivedi/Cloudflare-Workers-Editor)
+[Cloudflare Workers Editor GitHub Repository](https://github.com/NarendraDwivedi/Cloudflare-Workers-Editor)
