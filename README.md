@@ -1,4 +1,4 @@
-# Cloudflare Workers Editor
+[[# Cloudflare Workers Editor
 
 **Cloudflare Workers Editor** is a .NET-based GUI application designed to manage your Cloudflare Workers efficiently. With this tool, you can list, edit, create, and delete Cloudflare Workers. Additionally, it provides options to download individual workers or batch download all workers in a single click.
 
@@ -20,7 +20,7 @@
 
 1. **Download the Application:**
 
-   Download the latest release of the Cloudflare Workers Editor from the [releases page](https://github.com/your-username/cloudflare-workers-editor/releases) or build it from source.
+   Download the latest release of the Cloudflare Workers Editor from the [releases page]([https://github.com/your-username/cloudflare-workers-editor/releases](https://github.com/NarendraDwivedi/Cloudflare-Workers-Editor/releases). Note that the release binary is protected by obfuscation to enhance security.
 
 2. **Install the .NET Framework:**
 
@@ -28,11 +28,11 @@
 
 3. **Run the Application:**
 
-   - **If you downloaded the executable:** Simply run the `CloudflareWorkersEditor.exe` file.
+   - **If you downloaded the release:** Simply run the `Cloudflare Workers Editor` file.
 
 4. **Configure the Application:**
 
-   On the first launch, you will be prompted to enter your Cloudflare API token and account ID. Ensure these credentials are accurate to connect to your Cloudflare account.
+   On the first launch, you will need to enter your Cloudflare API token and account ID. Ensure these credentials are accurate to connect to your Cloudflare account.
 
 ## Usage
 
@@ -63,3 +63,4 @@ For any questions or support, please open an issue on the GitHub repository or c
 
 Thank you for using Cloudflare Workers Editor!
 
+](https://github.com/NarendraDwivedi/Cloudflare-Workers-Editor)](https://github.com/NarendraDwivedi/Cloudflare-Workers-Editor)
